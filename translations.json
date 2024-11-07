@@ -157,7 +157,11 @@
             "auth.edit_personal_information.phone_number": "Phone Number",
             "auth.edit_personal_information.gender": "Gender",
             "auth.edit_personal_information.date_of_birth": "Date of Birth",
-            "auth.edit_personal_information.save": "Save "
+            "auth.edit_personal_information.save": "Save ",
+            "auth.take_to_consultant": "Take to Consultant",
+            "auth.phone_number_consultant": "012999489",
+            "auth.phone_service_provider": "Cellcard",
+            "auth.error_phone_call": "Sorry, we couldn\'t place the call. Please try again."
         },
         "km_KH": {
             "app_name": "Unified",
@@ -312,7 +316,11 @@
             "auth.edit_personal_information.phone_number": "លេខទូរសព្ទ",
             "auth.edit_personal_information.gender": "ភេទ",
             "auth.edit_personal_information.date_of_birth": "ថ្ងៃខែឆ្នាំកំណើត",
-            "auth.edit_personal_information.save": "រក្សាទុក"
+            "auth.edit_personal_information.save": "រក្សាទុក",
+            "auth.take_to_consultant": "Take to Consultant",
+            "auth.phone_number_consultant": "012999489",
+            "auth.phone_service_provider": "Cellcard",
+            "auth.error_phone_call": "Sorry, we couldn\'t place the call. Please try again."
         },
         "zh_HK": {
             "app_name": "Unified",
@@ -466,7 +474,11 @@
             "auth.edit_personal_information.phone_number": "Phone Number",
             "auth.edit_personal_information.gender": "Gender",
             "auth.edit_personal_information.date_of_birth": "Date of Birth",
-            "auth.edit_personal_information.save": "Save"
+            "auth.edit_personal_information.save": "Save",
+            "auth.take_to_consultant": "Take to Consultant",
+            "auth.phone_number_consultant": "012999489",
+            "auth.phone_service_provider": "Cellcard",
+            "auth.error_phone_call": "Sorry, we couldn\'t place the call. Please try again."
         }
     }
 }
