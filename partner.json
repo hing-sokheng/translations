@@ -139,7 +139,7 @@
         "auth.change_pin.new_pin_cannot_empty": "New PIN cannot be empty",
         "auth.change_pin.current_pin_cannot_empty": "Current PIN cannot be empty",
         "auth.partner_account_screen.app_bar_title": "Settings",
-        "auth.partner_account_screen.personal_information": "Personal Information Modified 2",
+        "auth.partner_account_screen.personal_information": "Personal Information",
         "auth.partner_account_screen.privacy_security": "Privacy & Security",
         "auth.partner_account_screen.language": "Language",
         "auth.partner_account_screen.language_action": "English",
