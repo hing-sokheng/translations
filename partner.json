@@ -2,7 +2,7 @@
     "en_EN": {
         "partner_app.not_found.not_found": "Not Found",
         "partner_app.not_found.page_not_found": "Page Not Found",
-        "partner_app.account_screen.app_bar_title": "Settings Modified",
+        "partner_app.account_screen.app_bar_title": "Settings",
         "partner_app.help_and_support": "Help & Support",
         "partner_app.help_and_support.phone_number_consultant": "012999489",
         "partner_app.help_and_support.phone_service_provider": "Cellcard",
@@ -104,7 +104,7 @@
         "auth.pin.forgot_pin_label": "Forgot PIN?",
         "auth.pin.security_concern": "Security Concern",
         "auth.pin.reset_success": "Your PIN has been successfully set. You can now use your new PIN to access your account.",
-        "auth.manage_account.personal_information_header": "Personal Information",
+        "auth.manage_account.personal_information_header": "Personal Information Modified",
         "auth.manage_account.full_name": "Full Name",
         "auth.manage_account.email_address": "Email Address",
         "auth.manage_account.mobile_number": "Mobile Number",
